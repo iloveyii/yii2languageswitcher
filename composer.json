@@ -13,7 +13,8 @@
             "email": "iloveyii@yahoo.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "softhem\\langswitcher\\": "yii2languageswitcher/"
