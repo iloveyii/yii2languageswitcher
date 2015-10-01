@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "softhem\\langswitcher": "yii2languageswitcher/"
+            "softhem\\langswitcher\\": "yii2languageswitcher/"
         }
     }
 }
