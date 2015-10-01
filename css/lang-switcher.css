@@ -1,0 +1,72 @@
+.lang-switcher i {
+    background-image: url("../images/flags-large.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 15px;
+    width: 25px;
+}
+.lang-switcher a {
+    border: 2px solid grey;
+}
+.lang-switcher i.ar-AR, .lang-switcher i.ar-AE, .lang-switcher i.ae , .lang-switcher i.ar {background-position: -25px 0}
+.lang-switcher i.ps-AF, .lang-switcher i.ps {background-position: -50px 0}
+.lang-switcher i.sq-AL, .lang-switcher i.sq {background-position: -75px 0}
+.lang-switcher i.hy-AM, .lang-switcher i.hy {background-position: -100px 0}
+.lang-switcher i.az-AZ, .lang-switcher i.az {background-position: -125px 0}
+.lang-switcher i.bs-BA, .lang-switcher i.bs {background-position: -150px 0}
+.lang-switcher i.bg-BG, .lang-switcher i.bg {background-position: -175px 0}
+.lang-switcher i.pt-BR {background-position: 0 -15px}
+.lang-switcher i.be-BY, .lang-switcher i.be {background-position: -25px -15px}
+.lang-switcher i.fr-CA {background-position: -50px -15px}
+.lang-switcher i.zh-CN, .lang-switcher i.zh {background-position: -75px -15px}
+.lang-switcher i.cs-CZ, .lang-switcher i.cs {background-position: -100px -15px}
+.lang-switcher i.de-DE, .lang-switcher i.de {background-position: -125px -15px}
+.lang-switcher i.da-DK, .lang-switcher i.da {background-position: -150px -15px}
+.lang-switcher i.et-EE, .lang-switcher i.et {background-position: -175px -15px}
+.lang-switcher i.es-ES, .lang-switcher i.eu-ES, .lang-switcher i.ca-ES, .lang-switcher i.gl-ES, .lang-switcher i.es {background-position: 0 -30px}
+.lang-switcher i.fi-FI, .lang-switcher i.fi {background-position: -25px -30px}
+.lang-switcher i.fo-FO, .lang-switcher i.fo {background-position: -50px -30px}
+.lang-switcher i.fr-FR, .lang-switcher i.fr {background-position: -75px -30px}
+.lang-switcher i.en-UK, .lang-switcher i.en-GB, .lang-switcher i.cy-GB, .lang-switcher i.en-PI, .lang-switcher i.en-UD, .lang-switcher i.en {background-position: -100px -30px}
+.lang-switcher i.ka-GE, .lang-switcher i.ka {background-position: -125px -30px}
+.lang-switcher i.el-GR, .lang-switcher i.el {background-position: -150px -30px}
+.lang-switcher i.zh-HK {background-position: -175px -30px}
+.lang-switcher i.hr-HR, .lang-switcher i.hr {background-position: 0 -45px}
+.lang-switcher i.hu-HU, .lang-switcher i.hu {background-position: -25px -45px}
+.lang-switcher i.id-ID, .lang-switcher i.id {background-position: -50px -45px}
+.lang-switcher i.ga-IE, .lang-switcher i.ga {background-position: -75px -45px}
+.lang-switcher i.he-IL, .lang-switcher i.he {background-position: -100px -45px}
+.lang-switcher i.pa-IN, .lang-switcher i.ta-IN, .lang-switcher i.te-IN, .lang-switcher i.hi-IN, .lang-switcher i.bn-IN, .lang-switcher i.ml-IN, .lang-switcher i.hi {background-position: -125px -45px}
+.lang-switcher i.fa-IR, .lang-switcher i.fa {background-position: -150px -45px}
+.lang-switcher i.is-IS, .lang-switcher i.is {background-position: -175px -45px}
+.lang-switcher i.it-IT, .lang-switcher i.it {background-position: 0 -60px}
+.lang-switcher i.ja-JP, .lang-switcher i.jp {background-position: -25px -60px}
+.lang-switcher i.sw-KE, .lang-switcher i.sw {background-position: -50px -60px}
+.lang-switcher i.km-KH, .lang-switcher i.km {background-position: -75px -60px}
+.lang-switcher i.ko-KR, .lang-switcher i.ko {background-position: -100px -60px}
+.lang-switcher i.es-LA {background-position: -125px -60px}
+.lang-switcher i.fb-LT, .lang-switcher i.lt-LT, .lang-switcher i.lt {background-position: -150px -60px}
+.lang-switcher i.lv-LV, .lang-switcher i.lv {background-position: -175px -60px}
+.lang-switcher i.mk-MK, .lang-switcher i.mk {background-position: 0 -75px}
+.lang-switcher i.ms-MY, .lang-switcher i.ms {background-position: -25px -75px}
+.lang-switcher i.nl-NL, .lang-switcher i.fy-NL, .lang-switcher i.nl {background-position: -50px -75px}
+.lang-switcher i.nn-NO, .lang-switcher i.nb-NO, .lang-switcher i.nb.flag.flag-no {background-position: -75px -75px}
+.lang-switcher i.ne-NP, .lang-switcher i.ne {background-position: -100px -75px}
+.lang-switcher i.tl-PH, .lang-switcher i.tl {background-position: -125px -75px}
+.lang-switcher i.pl-PL, .lang-switcher i.pl {background-position: -150px -75px}
+.lang-switcher i.pt-PT, .lang-switcher i.pt {background-position: -175px -75px}
+.lang-switcher i.ro-RO, .lang-switcher i.ro {background-position: 0 -90px}
+.lang-switcher i.sr-RS, .lang-switcher i.sr {background-position: -25px -90px}
+.lang-switcher i.ru-RU, .lang-switcher i.ru {background-position: -50px -90px}
+.lang-switcher i.sv-SE, .lang-switcher i.sv {background-position: -75px -90px}
+.lang-switcher i.sl-SI, .lang-switcher i.sl {background-position: -100px -90px}
+.lang-switcher i.sk-SK, .lang-switcher i.sk {background-position: -125px -90px}
+.lang-switcher i.th-TH, .lang-switcher i.th {background-position: -150px -90px}
+.lang-switcher i.tr-TR, .lang-switcher i.ku-TR, .lang-switcher i.tr {background-position: -175px -90px}
+.lang-switcher i.zh-TW {background-position: 0 -105px}
+.lang-switcher i.uk-UA, .lang-switcher i.uk {background-position: -25px -105px}
+.lang-switcher i.en-US {background-position: -50px -105px}
+.lang-switcher i.la-VA, .lang-switcher i.la {background-position: -75px -105px}
+.lang-switcher i.vi-VN, .lang-switcher i.vi {background-position: -100px -105px}
+.lang-switcher i.af-ZA, .lang-switcher i.af {background-position: -125px -105px}
+.lang-switcher i.xx-XX {background-position: -175px -105px}

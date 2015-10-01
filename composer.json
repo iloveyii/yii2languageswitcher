@@ -1,0 +1,22 @@
+{
+    "name": "softhem/yii2langswitcher",
+    "description": "Yii 2 language switcher with SEO friendly url",
+    "type": "yii2 widget",
+    "require": {
+	"php": ">=5.3.0",
+        "yiisoft/yii2": "^2.0@dev"
+    },
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Hazrat Ali",
+            "email": "iloveyii@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "softhem\\langswitcher": "yii2languageswitcher/"
+        }
+    }
+}
