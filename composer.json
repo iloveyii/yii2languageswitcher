@@ -13,7 +13,6 @@
             "email": "iloveyii@yahoo.com"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "softhem\\langswitcher\\": "yii2languageswitcher/"
