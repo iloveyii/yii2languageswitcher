@@ -1,6 +1,6 @@
 <?php
-   use yii\helpers\Html;
-  ?>
+use yii\helpers\Html;
+?>
 
 <?php 
 
@@ -15,9 +15,12 @@
         } else {
             $str .= '<li class="lang-switcher">'.Html::a("<i class='{$lang}'></i>", str_replace($scriptUrl, $scriptUrl."$lang/", $url)).'</li>';
         }
+        
     }
     
     $str .= '</ul>';
-    echo $str;
+    // echo $str;
+    
+    // return ['label' => "<i class='{$lang}'></i>", 'url' => ['/site/contact']];
  ?>
     
